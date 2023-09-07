@@ -9,3 +9,6 @@ json-server 可以直接把一个 json 文件托管成一个具备全 RESTful �
 
 例如以下命令，文件夹 data 下的相同类型的 js 文件都会托管成一个 web 服务。
 json-server --watch --port 3000 index.js
+
+参考文档
+https://github.com/typicode/json-server
